@@ -1,14 +1,14 @@
 # Awesome-List-Top-Novels [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/falconis/Awesome-List-Top-Novels)
 > An awesome list of the top novels of various categories under Goodreads Choice Awards.
 
-- [Best Fiction](#Best Fiction)
-- [Best Mystery & Thriller](#Best Mystery & Thriller)
-- [Best Fantasy](#Best Fantasy)
-- [Best Science Fiction](#Best Science Fiction)
-- [Best Romance](#Best Romance)
-- [Best Horror](#Best Horror)
+- [Best-Fiction](#Best-Fiction)
+- [Best-Mystery & Thriller](#Best-Mystery-&-Thriller)
+- [Best-Fantasy](#Best-Fantasy)
+- [Best-Science Fiction](#Best-Science-Fiction)
+- [Best-Romance](#Best-Romance)
+- [Best-Horror](#Best-Horror)
 
-## Best Fiction
+## Best-Fiction
 ### 2009
 - [The Help](https://www.goodreads.com/book/show/4667024-the-help)
 - [The Lost Symbol](https://www.goodreads.com/book/show/6411961-the-lost-symbol)
@@ -46,7 +46,7 @@
 - [Best Fiction](#Best Fiction)
 - [Best Fiction](#Best Fiction)
 
-## Best Mystery & Thriller
+## Best-Mystery-&-Thriller
 ### 2009
 - [The Girl Who Played with Fire](https://www.goodreads.com/book/show/5060378.The_Girl_Who_Played_with_Fire__Millennium___2_)
 - [The Lost Symbol](https://www.goodreads.com/book/show/6411961.The_Lost_Symbol__Robert_Langdon___3_)
@@ -84,7 +84,7 @@
 - [Best Fiction](#Best Fiction)
 - [Best Fiction](#Best Fiction)
 
-## Best Fantasy
+## Best-Fantasy
 ### 2009
 - [Dead and Gone](https://www.goodreads.com/book/show/5161066.Dead_and_Gone__Sookie_Stackhouse___9_)
 - [Pride and Prejudice and Zombies](https://www.goodreads.com/book/show/5899779.Pride_and_Prejudice_and_Zombies)
@@ -122,7 +122,7 @@
 - [Best Fiction](#Best Fiction)
 - [Best Fiction](#Best Fiction)
 
-## Best Science Fiction
+## Best-Science-Fiction
 ### 2009
 - [Leviathan](https://www.goodreads.com/book/show/6050678.Leviathan)
 - [The Year of the Flood](https://www.goodreads.com/book/show/6080337.The_Year_of_the_Flood)
@@ -160,7 +160,7 @@
 - [Best Fiction](#Best Fiction)
 - [Best Fiction](#Best Fiction)
 
-## Best Romance
+## Best-Romance
 ### 2009
 - [An Echo in the Bone](https://www.goodreads.com/book/show/2832909.An_Echo_in_the_Bone__Outlander___7_)
 - [Destined for an Early Grave](https://www.goodreads.com/book/show/5604848.Destined_for_an_Early_Grave__Night_Huntress___4_)
@@ -198,7 +198,7 @@
 - [Best Fiction](#Best Fiction)
 - [Best Fiction](#Best Fiction)
 
-## Best Horror
+## Best-Horror
 ### 2011
 - [Best Fiction](#Best Fiction)
 - [Best Fiction](#Best Fiction)
