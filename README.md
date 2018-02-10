@@ -2,14 +2,14 @@
 > An awesome list of the top novels of various categories under Goodreads Choice Awards.
 
 ## Index
-- [Best-Fiction](# Best-Fiction)
-- [Best-Mystery & Thriller](# Best-Mystery-&-Thriller)
+- [Best-Fiction](#Best-Fiction)
+- [Best-Mystery & Thriller](#Best-Mystery-&-Thriller)
 - [Best-Fantasy](# Best-Fantasy)
-- [Best-Science Fiction](# Best-Science-Fiction)
+- [Best-Science Fiction](#Best-Science-Fiction)
 - [Best-Romance](# Best-Romance)
-- [Best-Horror](# Best-Horror)
+- [Best-Horror](#Best-Horror)
 
-## Best-Fiction
+## Best Fiction
 ### 2009
 - [The Help](https://www.goodreads.com/book/show/4667024-the-help)
 - [The Lost Symbol](https://www.goodreads.com/book/show/6411961-the-lost-symbol)
