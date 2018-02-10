@@ -1,12 +1,13 @@
 # Awesome-List-Top-Novels [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/falconis/Awesome-List-Top-Novels)
 > An awesome list of the top novels of various categories under Goodreads Choice Awards.
 
-- [Best-Fiction](#Best-Fiction)
-- [Best-Mystery & Thriller](#Best-Mystery-&-Thriller)
-- [Best-Fantasy](#Best-Fantasy)
-- [Best-Science Fiction](#Best-Science-Fiction)
-- [Best-Romance](#Best-Romance)
-- [Best-Horror](#Best-Horror)
+## Index
+- [Best-Fiction](# Best-Fiction)
+- [Best-Mystery & Thriller](# Best-Mystery-&-Thriller)
+- [Best-Fantasy](# Best-Fantasy)
+- [Best-Science Fiction](# Best-Science-Fiction)
+- [Best-Romance](# Best-Romance)
+- [Best-Horror](# Best-Horror)
 
 ## Best-Fiction
 ### 2009
