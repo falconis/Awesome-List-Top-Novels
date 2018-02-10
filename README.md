@@ -1,5 +1,5 @@
 # Awesome-List-Top-Novels [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/falconis/Awesome-List-Top-Novels)
-> An awesome list of the top novels of various categories under Goodreads Choice Awards.
+> An awesome list of the top 3 novels of various categories under Goodreads Choice Awards.
 
 ## Index
 - [Best-Fiction](#best-fiction)
